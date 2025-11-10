@@ -1,0 +1,38 @@
+# ===============================
+# 🌐 GLOBAL BACKEND + QA IGNORE
+# ===============================
+
+# Dependências
+node_modules/
+
+# Build, logs e caches
+dist/
+coverage/
+*.log
+logs/
+.nyc_output/
+.cache/
+.tmp/
+
+# Ambiente e variáveis
+.env
+.env.local
+.env.*.local
+
+# Configs de SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Testes temporários
+jest-cache/
+cypress/videos/
+cypress/screenshots/
+__pycache__/
+*.pyc
+
+# QA Docs e backups
+*.backup.md
+*.bak
+*.tmp
