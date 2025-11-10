@@ -1,0 +1,49 @@
+Condições de Teste – Plano e Estratégia de Testes Adaptada (ISO-29119-3)
+
+🧩 JIRA-9165 – Login de Empreendedores
+
+Validar obrigatoriedade de campos de login
+
+Validar autenticação com credenciais válidas e inválidas
+
+Validar bloqueio após múltiplas tentativas falhas
+
+Validar expiração de sessão por inatividade
+
+Validar mensagens de erro e feedback ao usuário
+
+👥 JIRA-9167 – Cadastro de Clientes e Produtos
+
+Validar obrigatoriedade de campos de cadastro
+
+Validar duplicidade de dados
+
+Validar edição e exclusão de registros
+
+Validar consistência e formato dos dados
+
+Validar rejeição de valores inválidos
+
+💰 Registro de Vendas e Faturamento
+
+Validar obrigatoriedade dos campos de venda
+
+Validar vínculo entre cliente, produto e venda
+
+Validar cálculo automático de faturamento
+
+Validar edição e cancelamento de venda
+
+Validar integridade de valores e datas
+
+📊 Visualização do Total de Faturamento
+
+Validar exibição dos totais por período e status
+
+Validar funcionamento dos filtros disponíveis
+
+Validar consistência entre listagem e totais
+
+Validar exportação de relatórios
+
+Validar comportamento quando não há dados
